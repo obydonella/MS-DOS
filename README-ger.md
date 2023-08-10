@@ -11,6 +11,6 @@ Alle Dateien, welche in diesem Repository veröffentlich sind, fallen unter die 
 # Beitragen!
 Der Quellcode in diesem Repository dient als geschichtliche Referenz und bleibt deshalb unverändert. Bitte sende **keine Pull Requests**, welche Änderungen des Quellcodes beinhalten. Zögere aber nicht, dieses Repository abzuspalten (engl: to fork) um damit zu experimentieren 😊.  
 
-Vorschläge für zusätzliches Material oder Änderungen an Dateien, welche nicht zum Quellcode gehören (z. B. diese README-Datei), können per Pull Request zur Prüfung eingereicht werden.
+Vorschläge für zusätzliches Material oder Änderungen an Dateien, welche nicht zum Quellcode gehören (z. B. diese README-Datei), können per Pull Request zur Prüfung eingereicht werden.ake aries_captivate_defconfig
 
 Dieses Projekt übernimmt den [Microsoft Open Source Verhaltenskodex](https://opensource.microsoft.com/codeofconduct/).  Weitere Informationen sind im [Verhaltenskodex FAQ](https://opensource.microsoft.com/codeofconduct/faq/) zu finden. Für weitere Fragen oder Kommentare kontaktiere [opencode@microsoft.com](mailto:opencode@microsoft.com).
